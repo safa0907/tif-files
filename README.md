@@ -1,6 +1,4 @@
-# Generate web optimized images
 
-With this plugin, we can generate web optimized images as well as their Internal Overviews and Virtual File.
 
 Used python packages
 
